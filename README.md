@@ -1,2 +1,3 @@
-# first-repository-
+# Wasix
 My first repository
+Author- Sunil
